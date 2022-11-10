@@ -30,14 +30,14 @@ $(function () {
     buffInterval = null,
     tFlag = false,
     albums = [
-      "Dawn",
+      "Extraley",
       "Me & You",
       "Electro Boy",
       "Home",
       "Proxy (Original Mix)"
     ],
     trackNames = [
-      "Skylike - Dawn",
+      "Estrategia legal empresarial",
       "Alex Skrindo - Me & You",
       "Kaaze - Electro Boy",
       "Jordan Schor - Home",
